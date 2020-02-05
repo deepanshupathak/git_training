@@ -1,2 +1,6 @@
 Hello git. This is Deepanshu here.
+<<<<<<< HEAD
 Registraition.
+=======
+login.
+>>>>>>> f8f93db2980e21666d5ffedd31c0cff89218889c
